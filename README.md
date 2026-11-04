@@ -1,7 +1,12 @@
-## Olá! Eu sou o Walney Rodrigues
+## Olá! Eu sou o Walney Rodrigues 👋
 
-- 👋 Hi, I I like studying programming
-- 👀 I’m interested in React, REACT Native
-- 🌱 I’m currently learning Reacg with REDUX, NGIX, REACT Native
-- 💞️ I’m looking to collaborate JS and REACT, so that I can evolve in this wonderful language.
-- 📫 How to reach me in LINKEDIN https://bit.ly/2Cq3IAc
+Sou **Analista de Sistemas**, com interesse em desenvolvimento web, automação e soluções que simplificam o dia a dia de pessoas e empresas.
+
+- 💻 Estou aprofundando meus conhecimentos em **Python, Django, JavaScript e React**.
+- 🛠️ Desenvolvo projetos práticos para aprimorar minhas habilidades em aplicações web e integração com bancos de dados.
+- 🐧 Estou construindo meu ambiente de desenvolvimento em **Linux**, com acesso remoto pelo navegador.
+- 🤝 Quero colaborar em projetos, compartilhar conhecimento e aprender com outros desenvolvedores.
+- 🚀 Busco oportunidades em **desenvolvimento de sistemas e automação de processos**.
+- 📫 Vamos conversar pelo [LinkedIn](https://www.linkedin.com/in/analistawalney/)!
+
+**Tecnologia para resolver problemas e transformar ideias em soluções.**
